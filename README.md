@@ -83,18 +83,40 @@ print("Root Mean Square Error = ",rmse)
 
 ## Output:
 ### To Read All CSV Files
-![1](./1.png)
+
+![image](https://github.com/PSriVarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/114944059/88e2784e-e0e0-4bcf-bea4-96a328c26de2)
+
+
 ### To Read Head and Tail Files
-![2](./2.png)
+
+![image](https://github.com/PSriVarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/114944059/12f46ae8-c329-432e-b680-119ff82a842a)
+
+
 ### Compare Dataset
-![3](./3.png)
+
+![image](https://github.com/PSriVarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/114944059/e7801ab1-bee5-4c8e-8cf8-d08afd237840)
+
+
 ### Predicted Value
-![4](./4.png)
+
+![image](https://github.com/PSriVarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/114944059/e584ddde-9a3e-44c9-b488-41877ae4edaa)
+
+
 ### Graph For Training Set
-![5](./5.png)
+
+![image](https://github.com/PSriVarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/114944059/a5dcc324-46df-44ad-a6e7-6102da5899a0)
+
+
+
 ### Graph For Testing Set
-![6](./6.png)
+
+![image](https://github.com/PSriVarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/114944059/cc50d111-5302-420a-b4d2-4e1ba8e2f73e)
+
+
 ### Error
-![7](./7.png)
+
+![image](https://github.com/PSriVarshan/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/114944059/5712c50b-d302-4bb3-a88c-4b3e75f18e85)
+
+
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
